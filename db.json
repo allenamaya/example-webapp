@@ -1,0 +1,44 @@
+{
+    "issues": [
+      {
+        "id": 1,
+        "name": "Deforestation",
+        "image": "https://cdn.pixabay.com/photo/2015/11/07/11/55/forest-1030855_1280.jpg",
+        "description": "Deforestation is the permanent destruction of forests in order to make the land available for other uses, such as agriculture or urbanization.",
+        "solutions": [
+          "Plant more trees",
+          "Support companies that practice sustainable forestry",
+          "Reduce paper usage",
+          "Support conservation efforts",
+          "Eat a plant-based diet"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Ocean Pollution",
+        "image": "https://cdn.pixabay.com/photo/2016/02/19/11/47/garbage-1213483_1280.jpg",
+        "description": "Ocean pollution is the release of harmful substances such as plastic, oil, and industrial waste into the ocean.",
+        "solutions": [
+          "Reduce plastic usage",
+          "Properly dispose of hazardous waste",
+          "Support ocean conservation efforts",
+          "Reduce fertilizer usage",
+          "Reduce household chemical usage"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Air Pollution",
+        "image": "https://cdn.pixabay.com/photo/2017/05/08/13/15/industry-2296278_1280.jpg",
+        "description": "Air pollution is the release of harmful substances such as particulate matter, nitrogen oxides, and sulfur dioxide into the air.",
+        "solutions": [
+          "Use public transportation or carpool",
+          "Reduce energy usage",
+          "Use environmentally-friendly products",
+          "Support clean energy initiatives",
+          "Reduce meat consumption"
+        ]
+      }
+    ]
+  }
+  
